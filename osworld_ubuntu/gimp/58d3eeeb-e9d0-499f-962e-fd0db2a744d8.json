@@ -1,0 +1,35 @@
+{
+  "id": "58d3eeeb-e9d0-499f-962e-fd0db2a744d8",
+  "snapshot": "gimp",
+  "instruction": "Please describe what is happening in the image.",
+  "source": "",
+  "config": [
+    {
+      "type": "download",
+      "parameters": {
+        "files": [
+          {
+            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/gimp/heron.jpeg",
+            "path": "/home/user/Desktop/heron.jpeg"
+          }
+        ]
+      }
+    },
+    {
+      "type": "launch",
+      "parameters": {
+        "command": [
+          "gimp",
+          "/home/user/Desktop/heron.jpeg"
+        ]
+      }
+    }
+  ],
+  "trajectory": "trajectories/",
+  "related_apps": [
+    "gimp"
+  ],
+  "evaluator": {
+    "func": "infeasible"
+  }
+}

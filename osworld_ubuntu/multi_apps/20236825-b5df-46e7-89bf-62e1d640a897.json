@@ -1,0 +1,58 @@
+{
+  "id": "20236825-b5df-46e7-89bf-62e1d640a897",
+  "snapshot": "vscode",
+  "instruction": "I am currently working on my algorithm practice using the document \"bubble_Sort_tutorial.docx.\" Please assist me in completing the 'bubbleSort' function within the 'bubbleSort.py' file on the Desktop and save the output as 'res.txt' on the Desktop.",
+  "source": "authors",
+  "config": [
+    {
+      "type": "download",
+      "parameters": {
+        "files": [
+          {
+            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/multi_apps/bubbleSort.zip",
+            "path": "/home/user/Desktop/bubbleSort.zip"
+          },
+          {
+            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/multi_apps/Bubble_Sort_tutorial.docx",
+            "path": "/home/user/Desktop/Bubble_Sort_tutorial.docx"
+          }
+        ]
+      }
+    },
+    {
+      "type": "execute",
+      "parameters": {
+        "command": [
+          "/bin/bash",
+          "-c",
+          "unzip /home/user/Desktop/bubbleSort.zip -d /home/user/Desktop/ && rm -rf /home/user/Desktop/bubbleSort.zip"
+        ]
+      }
+    },
+    {
+      "type": "open",
+      "parameters": {
+        "path": "/home/user/Desktop/Bubble_Sort_tutorial.docx"
+      }
+    }
+  ],
+  "trajectory": "trajectories/20236825-b5df-46e7-89bf-62e1d640a897",
+  "related_apps": [
+    "vscode",
+    "libreoffice_writer",
+    "os"
+  ],
+  "evaluator": {
+    "func": "compare_text_file",
+    "expected": {
+      "type": "cloud_file",
+      "path": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/evaluation/multi_apps/res_Gold.txt",
+      "dest": "res_Gold.txt"
+    },
+    "result": {
+      "type": "vm_file",
+      "path": "/home/user/Desktop/res.txt",
+      "dest": "res.txt"
+    }
+  }
+}
