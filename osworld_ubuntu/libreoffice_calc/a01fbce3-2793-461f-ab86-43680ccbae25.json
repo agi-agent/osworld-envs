@@ -9,7 +9,7 @@
       "parameters": {
         "files": [
           {
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/libreoffice_calc/Set_Decimal_Separator_Dot.xlsx",
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/libreoffice_calc/a01fbce3-2793-461f-ab86-43680ccbae25_Set_Decimal_Separator_Dot.xlsx",
             "path": "/home/user/Set_Decimal_Separator_Dot.xlsx"
           }
         ]
@@ -93,8 +93,8 @@
     "expected": {
       "type": "cloud_file",
       "path": [
-        "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/evaluation/libreoffice_calc/Set_Decimal_Separator_Dot_gold.xlsx",
-        "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/evaluation/libreoffice_calc/Set_Decimal_Separator_Dot_gold-Sheet1.csv"
+        "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/evaluation/libreoffice_calc/a01fbce3-2793-461f-ab86-43680ccbae25_Set_Decimal_Separator_Dot_gold.xlsx",
+        "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/evaluation/libreoffice_calc/a01fbce3-2793-461f-ab86-43680ccbae25_Set_Decimal_Separator_Dot_gold-Sheet1.csv"
       ],
       "dest": [
         "Set_Decimal_Separator_Dot_gold.xlsx",

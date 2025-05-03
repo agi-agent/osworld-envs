@@ -20,19 +20,19 @@
         "files": [
           {
             "path": "/home/user/Desktop/tetris/block.py",
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/multi_apps/block.py"
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/multi_apps/9219480b-3aed-47fc-8bac-d2cffc5849f7_block.py"
           },
           {
             "path": "/home/user/Desktop/tetris/main.py",
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/multi_apps/main.py"
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/multi_apps/9219480b-3aed-47fc-8bac-d2cffc5849f7_main.py"
           },
           {
             "path": "/home/user/Desktop/tetris/settings.py",
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/multi_apps/settings.py"
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/multi_apps/9219480b-3aed-47fc-8bac-d2cffc5849f7_settings.py"
           },
           {
             "path": "/home/user/Desktop/tetris/tetris.py",
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/multi_apps/tetris.py"
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/multi_apps/9219480b-3aed-47fc-8bac-d2cffc5849f7_tetris.py"
           }
         ]
       }
@@ -73,7 +73,7 @@
     },
     "expected": {
       "type": "cloud_file",
-      "path": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/evaluation/multi_apps/test_suite.py",
+      "path": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/evaluation/multi_apps/9219480b-3aed-47fc-8bac-d2cffc5849f7_test_suite.py",
       "dest": "test_suite.py"
     }
   }

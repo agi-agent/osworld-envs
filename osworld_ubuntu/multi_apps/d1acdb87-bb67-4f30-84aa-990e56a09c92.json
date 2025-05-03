@@ -10,11 +10,11 @@
         "files": [
           {
             "path": "/home/user/Desktop/restaurants.txt",
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/multi_apps/restaurants.txt"
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/multi_apps/d1acdb87-bb67-4f30-84aa-990e56a09c92_restaurants.txt"
           },
           {
             "path": "/home/user/Desktop/MUST_VISIT.xlsx",
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/multi_apps/MUST_VISIT.xlsx"
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/multi_apps/d1acdb87-bb67-4f30-84aa-990e56a09c92_MUST_VISIT.xlsx"
           }
         ]
       }
@@ -91,7 +91,7 @@
     },
     "expected": {
       "type": "cloud_file",
-      "path": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/evaluation/multi_apps/MUST_VISIT-gt.xlsx",
+      "path": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/evaluation/multi_apps/d1acdb87-bb67-4f30-84aa-990e56a09c92_MUST_VISIT-gt.xlsx",
       "dest": "MUST_VISIT-gt.xlsx"
     },
     "options": {

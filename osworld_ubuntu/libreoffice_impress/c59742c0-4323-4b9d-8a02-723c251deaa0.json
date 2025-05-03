@@ -9,7 +9,7 @@
       "parameters": {
         "files": [
           {
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/libreoffice_impress/Mady_and_Mia_Baseball.pptx",
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/libreoffice_impress/c59742c0-4323-4b9d-8a02-723c251deaa0_Mady_and_Mia_Baseball.pptx",
             "path": "/home/user/Desktop/Mady_and_Mia_Baseball.pptx"
           }
         ]
@@ -20,7 +20,7 @@
       "parameters": {
         "files": [
           {
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/libreoffice_impress/Baseball.mp3",
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/libreoffice_impress/c59742c0-4323-4b9d-8a02-723c251deaa0_Baseball.mp3",
             "path": "/home/user/Desktop/Baseball.mp3"
           }
         ]

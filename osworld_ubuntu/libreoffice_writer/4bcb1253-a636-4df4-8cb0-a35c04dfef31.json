@@ -9,7 +9,7 @@
       "parameters": {
         "files": [
           {
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/libreoffice_writer/View_Person_Organizational_Summary.docx",
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/libreoffice_writer/4bcb1253-a636-4df4-8cb0-a35c04dfef31_View_Person_Organizational_Summary.docx",
             "path": "/home/user/Desktop/View_Person_Organizational_Summary.docx"
           }
         ]
@@ -30,7 +30,7 @@
     "func": "compare_pdfs",
     "expected": {
       "type": "cloud_file",
-      "path": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/evaluation/libreoffice_writer/Constitution_Template_With_Guidelines_Gold.pdf",
+      "path": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/evaluation/libreoffice_writer/4bcb1253-a636-4df4-8cb0-a35c04dfef31_Constitution_Template_With_Guidelines_Gold.pdf",
       "dest": "Constitution_Template_With_Guidelines_Gold.pdf"
     },
     "result": {

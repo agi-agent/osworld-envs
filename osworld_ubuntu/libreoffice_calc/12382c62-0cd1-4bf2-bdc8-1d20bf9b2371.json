@@ -9,7 +9,7 @@
       "parameters": {
         "files": [
           {
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/libreoffice_calc/WeeklySales.xlsx",
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/libreoffice_calc/12382c62-0cd1-4bf2-bdc8-1d20bf9b2371_WeeklySales.xlsx",
             "path": "/home/user/WeeklySales.xlsx"
           }
         ]
@@ -61,7 +61,7 @@
     "func": "compare_table",
     "expected": {
       "type": "cloud_file",
-      "path": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/evaluation/libreoffice_calc/13_WeeklySales_gt1.xlsx",
+      "path": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/evaluation/libreoffice_calc/12382c62-0cd1-4bf2-bdc8-1d20bf9b2371_13_WeeklySales_gt1.xlsx",
       "dest": "13_WeeklySales_gt1.xlsx"
     },
     "result": {

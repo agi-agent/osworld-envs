@@ -9,7 +9,7 @@
       "parameters": {
         "files": [
           {
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/libreoffice_writer/CCHU9045_Course_Outline_2019-20.docx",
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/libreoffice_writer/b21acd93-60fd-4127-8a43-2f5178f4a830_CCHU9045_Course_Outline_2019-20.docx",
             "path": "/home/user/Desktop/CCHU9045_Course_Outline_2019-20.docx"
           }
         ]
@@ -55,7 +55,7 @@
     "func": "compare_line_spacing",
     "expected": {
       "type": "cloud_file",
-      "path": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/evaluation/libreoffice_writer/CCHU9045_Course_Outline_2019-20_Gold.docx",
+      "path": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/evaluation/libreoffice_writer/b21acd93-60fd-4127-8a43-2f5178f4a830_CCHU9045_Course_Outline_2019-20_Gold.docx",
       "dest": "CCHU9045_Course_Outline_2019-20_Gold.docx"
     },
     "result": {

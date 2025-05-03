@@ -9,7 +9,7 @@
       "parameters": {
         "files": [
           {
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/multi_apps/ConferenceCity.xlsx",
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/multi_apps/6f4073b8-d8ea-4ade-8a18-c5d1d5d5aa9a_ConferenceCity.xlsx",
             "path": "/home/user/Desktop/ConferenceCity.xlsx"
           }
         ]

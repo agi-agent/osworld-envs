@@ -9,11 +9,11 @@
       "parameters": {
         "files": [
           {
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/multi_apps/bubbleSort.zip",
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/multi_apps/20236825-b5df-46e7-89bf-62e1d640a897_bubbleSort.zip",
             "path": "/home/user/Desktop/bubbleSort.zip"
           },
           {
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/multi_apps/Bubble_Sort_tutorial.docx",
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/multi_apps/20236825-b5df-46e7-89bf-62e1d640a897_Bubble_Sort_tutorial.docx",
             "path": "/home/user/Desktop/Bubble_Sort_tutorial.docx"
           }
         ]
@@ -46,7 +46,7 @@
     "func": "compare_text_file",
     "expected": {
       "type": "cloud_file",
-      "path": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/evaluation/multi_apps/res_Gold.txt",
+      "path": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/evaluation/multi_apps/20236825-b5df-46e7-89bf-62e1d640a897_res_Gold.txt",
       "dest": "res_Gold.txt"
     },
     "result": {

@@ -9,7 +9,7 @@
       "parameters": {
         "files": [
           {
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/multi_apps/OIP.jpg",
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/multi_apps/a503b07f-9119-456b-b75d-f5146737d24f_OIP.jpg",
             "path": "/home/user/OIP.jpg"
           }
         ]
@@ -26,7 +26,7 @@
     "func": "compare_pdf_images",
     "expected": {
       "type": "cloud_file",
-      "path": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/evaluation/multi_apps/receipt_Gold.pdf",
+      "path": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/evaluation/multi_apps/a503b07f-9119-456b-b75d-f5146737d24f_receipt_Gold.pdf",
       "dest": "receipt_Gold.pdf"
     },
     "result": {

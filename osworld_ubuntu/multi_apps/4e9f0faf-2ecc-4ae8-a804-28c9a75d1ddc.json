@@ -76,7 +76,7 @@
     },
     "expected": {
       "type": "cloud_file",
-      "path": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/evaluation/multi_apps/invoice_gold.xlsx",
+      "path": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/evaluation/multi_apps/4e9f0faf-2ecc-4ae8-a804-28c9a75d1ddc_invoice_gold.xlsx",
       "dest": "invoice_gold.xlsx"
     },
     "options": {

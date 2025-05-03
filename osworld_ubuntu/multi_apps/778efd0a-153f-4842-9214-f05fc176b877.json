@@ -9,11 +9,11 @@
       "parameters": {
         "files": [
           {
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/multi_apps/Minimalist_Business_Slides.pptx",
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/multi_apps/778efd0a-153f-4842-9214-f05fc176b877_Minimalist_Business_Slides.pptx",
             "path": "/home/user/Desktop/Minimalist_Business_Slides.pptx"
           },
           {
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/multi_apps/planet.mp4",
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/multi_apps/778efd0a-153f-4842-9214-f05fc176b877_planet.mp4",
             "path": "/home/user/Desktop/planet.mp4"
           }
         ]
@@ -82,7 +82,7 @@
     },
     "expected": {
       "type": "cloud_file",
-      "path": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/evaluation/multi_apps/gold_planet.wav",
+      "path": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/evaluation/multi_apps/778efd0a-153f-4842-9214-f05fc176b877_gold_planet.wav",
       "dest": "gold_planet.wav"
     }
   }

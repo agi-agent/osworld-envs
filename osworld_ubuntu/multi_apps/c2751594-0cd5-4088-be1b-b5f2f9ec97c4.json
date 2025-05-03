@@ -9,7 +9,7 @@
       "parameters": {
         "files": [
           {
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/multi_apps/thunderbird-profile.tar.gz",
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/multi_apps/c2751594-0cd5-4088-be1b-b5f2f9ec97c4_thunderbird-profile.tar.gz",
             "path": "/home/user/thunderbird-profile.tar.gz"
           }
         ]
@@ -51,7 +51,7 @@
     },
     "expected": {
       "type": "cloud_file",
-      "path": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/evaluation/multi_apps/gold_background.png",
+      "path": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/evaluation/multi_apps/c2751594-0cd5-4088-be1b-b5f2f9ec97c4_gold_background.png",
       "dest": "gold_background.png"
     },
     "options": {

@@ -10,7 +10,7 @@
         "files": [
           {
             "path": "/home/user/Desktop/QTdHniCqfJbBLJe3L3nijU-1200-80.xcf",
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/multi_apps/QTdHniCqfJbBLJe3L3nijU-1200-80.xcf"
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/multi_apps/227d2f97-562b-4ccb-ae47-a5ec9e142fbb_QTdHniCqfJbBLJe3L3nijU-1200-80.xcf"
           }
         ]
       }
@@ -62,7 +62,7 @@
     },
     "expected": {
       "type": "cloud_file",
-      "path": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/evaluation/multi_apps/image_Gold.docx",
+      "path": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/evaluation/multi_apps/227d2f97-562b-4ccb-ae47-a5ec9e142fbb_image_Gold.docx",
       "dest": "image_Gold.docx"
     }
   }

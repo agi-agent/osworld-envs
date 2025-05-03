@@ -9,7 +9,7 @@
       "parameters": {
         "files": [
           {
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/libreoffice_calc/DemographicProfile.xlsx",
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/libreoffice_calc/30e3e107-1cfb-46ee-a755-2cd080d7ba6a_DemographicProfile.xlsx",
             "path": "/home/user/DemographicProfile.xlsx"
           }
         ]
@@ -61,7 +61,7 @@
     "func": "compare_table",
     "expected": {
       "type": "cloud_file",
-      "path": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/evaluation/libreoffice_calc/1_DemographicProfile_gt1.xlsx",
+      "path": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/evaluation/libreoffice_calc/30e3e107-1cfb-46ee-a755-2cd080d7ba6a_1_DemographicProfile_gt1.xlsx",
       "dest": "1_DemographicProfile_gt1.xlsx"
     },
     "result": {

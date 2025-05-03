@@ -10,7 +10,7 @@
         "files": [
           {
             "path": "/home/user/Desktop/New Large Language Models.xlsx",
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/multi_apps/New Large Language Models.xlsx"
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/multi_apps/deec51c9-3b1e-4b9e-993c-4776f20e8bb2_New Large Language Models.xlsx"
           }
         ]
       }
@@ -68,7 +68,7 @@
     },
     "expected": {
       "type": "cloud_file",
-      "path": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/evaluation/multi_apps/New Large Language Models Gold.xlsx",
+      "path": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/evaluation/multi_apps/deec51c9-3b1e-4b9e-993c-4776f20e8bb2_New Large Language Models Gold.xlsx",
       "dest": "New Large Language Models Gold.xlsx"
     },
     "options": {

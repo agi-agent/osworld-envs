@@ -9,7 +9,7 @@
       "parameters": {
         "files": [
           {
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/multi_apps/tilearray.png",
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/multi_apps/d68204bf-11c1-4b13-b48b-d303c73d4bf6_tilearray.png",
             "path": "/home/user/Desktop/tilearray.png"
           }
         ]
@@ -40,7 +40,7 @@
     },
     "expected": {
       "type": "cloud_file",
-      "path": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/evaluation/multi_apps/rearranged_gold.png",
+      "path": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/evaluation/multi_apps/d68204bf-11c1-4b13-b48b-d303c73d4bf6_rearranged_gold.png",
       "dest": "rearranged_gold.png"
     }
   }

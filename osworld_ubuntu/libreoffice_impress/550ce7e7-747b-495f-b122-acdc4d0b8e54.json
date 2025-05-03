@@ -9,7 +9,7 @@
       "parameters": {
         "files": [
           {
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/libreoffice_impress/New_Club_Spring_2018_Training.pptx",
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/libreoffice_impress/550ce7e7-747b-495f-b122-acdc4d0b8e54_New_Club_Spring_2018_Training.pptx",
             "path": "/home/user/Desktop/New_Club_Spring_2018_Training.pptx"
           }
         ]
@@ -77,7 +77,7 @@
     "func": "compare_pptx_files",
     "expected": {
       "type": "cloud_file",
-      "path": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/evaluation/libreoffice_impress/New_Club_Spring_2018_Training_Gold.pptx",
+      "path": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/evaluation/libreoffice_impress/550ce7e7-747b-495f-b122-acdc4d0b8e54_New_Club_Spring_2018_Training_Gold.pptx",
       "dest": "New_Club_Spring_2018_Training_Gold.pptx"
     },
     "result": {

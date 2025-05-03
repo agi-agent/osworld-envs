@@ -9,7 +9,7 @@
       "parameters": {
         "files": [
           {
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/gimp/dog_with_background.png",
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/gimp/a746add2-cab0-4740-ac36-c3769d9bfb46_dog_with_background.png",
             "path": "/home/user/Desktop/dog_with_background.png"
           }
         ]

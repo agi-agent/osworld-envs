@@ -9,15 +9,15 @@
       "parameters": {
         "files": [
           {
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/gimp/squirrel.jpeg",
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/gimp/2e6f678f-472d-4c55-99cc-8e7c5c402a71_squirrel.jpeg",
             "path": "/home/user/Desktop/squirrel.jpeg"
           },
           {
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/gimp/panda.jpeg",
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/gimp/2e6f678f-472d-4c55-99cc-8e7c5c402a71_panda.jpeg",
             "path": "/home/user/Desktop/panda.jpeg"
           },
           {
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/gimp/heron.jpeg",
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/gimp/2e6f678f-472d-4c55-99cc-8e7c5c402a71_heron.jpeg",
             "path": "/home/user/Desktop/heron.jpeg"
           }
         ]

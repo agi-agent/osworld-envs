@@ -9,7 +9,7 @@
       "parameters": {
         "files": [
           {
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/multi_apps/shi17a.pdf",
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/multi_apps/36037439-2044-4b50-b9d1-875b5a332143_shi17a.pdf",
             "path": "/home/user/Desktop/shi17a.pdf"
           }
         ]

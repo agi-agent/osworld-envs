@@ -9,7 +9,7 @@
       "parameters": {
         "files": [
           {
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/libreoffice_impress/lec17-gui-events.pptx",
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/libreoffice_impress/3b27600c-3668-4abd-8f84-7bcdebbccbdb_lec17-gui-events.pptx",
             "path": "/home/user/Desktop/lec17-gui-events.pptx"
           }
         ]

@@ -9,7 +9,7 @@
       "parameters": {
         "files": [
           {
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/libreoffice_writer/Constitution_Template_With_Guidelines.docx",
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/libreoffice_writer/3ef2b351-8a84-4ff2-8724-d86eae9b842e_Constitution_Template_With_Guidelines.docx",
             "path": "/home/user/Desktop/Constitution_Template_With_Guidelines.docx"
           }
         ]

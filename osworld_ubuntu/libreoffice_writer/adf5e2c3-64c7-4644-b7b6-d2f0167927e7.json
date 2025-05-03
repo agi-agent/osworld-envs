@@ -9,7 +9,7 @@
       "parameters": {
         "files": [
           {
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/libreoffice_writer/Essay_Writing_English_for_uni.docx",
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/libreoffice_writer/adf5e2c3-64c7-4644-b7b6-d2f0167927e7_Essay_Writing_English_for_uni.docx",
             "path": "/home/user/Desktop/Essay_Writing_English_for_uni.docx"
           }
         ]
@@ -55,7 +55,7 @@
     "func": "compare_docx_files",
     "expected": {
       "type": "cloud_file",
-      "path": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/evaluation/libreoffice_writer/Essay_Writing_English_for_uni_Gold.docx",
+      "path": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/evaluation/libreoffice_writer/adf5e2c3-64c7-4644-b7b6-d2f0167927e7_Essay_Writing_English_for_uni_Gold.docx",
       "dest": "Essay_Writing_English_for_uni_Gold.docx"
     },
     "result": {

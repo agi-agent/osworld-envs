@@ -9,11 +9,11 @@
       "parameters": {
         "files": [
           {
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/gimp/Triangle_On_The_Side.png",
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/gimp/f4aec372-4fb0-4df5-a52b-79e0e2a5d6ce_Triangle_On_The_Side.png",
             "path": "/home/user/Desktop/Triangle_On_The_Side.png"
           },
           {
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/gimp/Triangle_On_The_Side.xcf",
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/gimp/f4aec372-4fb0-4df5-a52b-79e0e2a5d6ce_Triangle_On_The_Side.xcf",
             "path": "/home/user/Desktop/Triangle_On_The_Side.xcf"
           }
         ]

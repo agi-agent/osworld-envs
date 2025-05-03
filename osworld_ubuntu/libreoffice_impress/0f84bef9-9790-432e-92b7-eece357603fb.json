@@ -9,7 +9,7 @@
       "parameters": {
         "files": [
           {
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/libreoffice_impress/multimedia_classroom_podium-2020.pptx",
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/libreoffice_impress/0f84bef9-9790-432e-92b7-eece357603fb_multimedia_classroom_podium-2020.pptx",
             "path": "/home/user/Desktop/multimedia_classroom_podium-2020.pptx"
           }
         ]

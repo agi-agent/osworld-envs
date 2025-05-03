@@ -9,7 +9,7 @@
       "parameters": {
         "files": [
           {
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/multi_apps/top-10-linux-commands-for-newbies.docx",
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/multi_apps/02ce9a50-7af2-47ed-8596-af0c230501f8_top-10-linux-commands-for-newbies.docx",
             "path": "/home/user/Desktop/top-10-linux-commands-for-newbies.docx"
           }
         ]

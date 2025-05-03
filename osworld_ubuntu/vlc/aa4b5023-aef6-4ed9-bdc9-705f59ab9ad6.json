@@ -9,7 +9,7 @@
       "parameters": {
         "files": [
           {
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/vlc/flipped_1984_Apple_Macintosh_Commercial.mp4",
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/vlc/aa4b5023-aef6-4ed9-bdc9-705f59ab9ad6_flipped_1984_Apple_Macintosh_Commercial.mp4",
             "path": "/home/user/Desktop/flipped_1984_Apple_Macintosh_Commercial.mp4"
           }
         ]
@@ -44,7 +44,7 @@
     "func": "compare_videos",
     "expected": {
       "type": "cloud_file",
-      "path": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/evaluation/vlc/1984_Apple_Macintosh_Commercial_gold.mp4",
+      "path": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/evaluation/vlc/aa4b5023-aef6-4ed9-bdc9-705f59ab9ad6_1984_Apple_Macintosh_Commercial_gold.mp4",
       "dest": "1984_Apple_Macintosh_Commercial_gold.mp4"
     },
     "result": {

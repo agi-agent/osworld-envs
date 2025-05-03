@@ -9,7 +9,7 @@
       "parameters": {
         "files": [
           {
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/libreoffice_calc/Multiply_Time_Number.xlsx",
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/libreoffice_calc/357ef137-7eeb-4c80-a3bb-0951f26a8aff_Multiply_Time_Number.xlsx",
             "path": "/home/user/Multiply_Time_Number.xlsx"
           }
         ]

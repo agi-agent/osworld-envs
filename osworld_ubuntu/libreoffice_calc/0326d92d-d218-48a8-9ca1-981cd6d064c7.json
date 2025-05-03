@@ -9,7 +9,7 @@
       "parameters": {
         "files": [
           {
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/libreoffice_calc/SalesRep.xlsx",
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/libreoffice_calc/0326d92d-d218-48a8-9ca1-981cd6d064c7_SalesRep.xlsx",
             "path": "/home/user/SalesRep.xlsx"
           }
         ]
@@ -61,7 +61,7 @@
     "func": "compare_table",
     "expected": {
       "type": "cloud_file",
-      "path": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/evaluation/libreoffice_calc/2_SalesRep_gt1.xlsx",
+      "path": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/evaluation/libreoffice_calc/0326d92d-d218-48a8-9ca1-981cd6d064c7_2_SalesRep_gt1.xlsx",
       "dest": "2_SalesRep_gt1.xlsx"
     },
     "result": {

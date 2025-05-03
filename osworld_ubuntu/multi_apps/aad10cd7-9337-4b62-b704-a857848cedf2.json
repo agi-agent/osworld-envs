@@ -58,7 +58,7 @@
     "func": "compare_docx_files",
     "expected": {
       "type": "cloud_file",
-      "path": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/evaluation/multi_apps/notes_Gold.docx",
+      "path": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/evaluation/multi_apps/aad10cd7-9337-4b62-b704-a857848cedf2_notes_Gold.docx",
       "dest": "notes_Gold.docx"
     },
     "result": {

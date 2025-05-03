@@ -9,7 +9,7 @@
       "parameters": {
         "files": [
           {
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/libreoffice_calc/Represent_in_millions_billions.xlsx",
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/libreoffice_calc/21df9241-f8d7-4509-b7f1-37e501a823f7_Represent_in_millions_billions.xlsx",
             "path": "/home/user/Represent_in_millions_billions.xlsx"
           }
         ]
@@ -93,8 +93,8 @@
     "expected": {
       "type": "cloud_file",
       "path": [
-        "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/evaluation/libreoffice_calc/Represent_in_millions_billions_gold.xlsx",
-        "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/evaluation/libreoffice_calc/Represent_in_millions_billions_gold-Sheet1.csv"
+        "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/evaluation/libreoffice_calc/21df9241-f8d7-4509-b7f1-37e501a823f7_Represent_in_millions_billions_gold.xlsx",
+        "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/evaluation/libreoffice_calc/21df9241-f8d7-4509-b7f1-37e501a823f7_Represent_in_millions_billions_gold-Sheet1.csv"
       ],
       "dest": [
         "Represent_in_millions_billions_gold.xlsx",

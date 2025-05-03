@@ -9,7 +9,7 @@
       "parameters": {
         "files": [
           {
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/thunderbird/thunderbird-profile.tar.gz",
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/thunderbird/dd84e895-72fd-4023-a336-97689ded257c_thunderbird-profile.tar.gz",
             "path": "/home/user/thunderbird-profile.tar.gz"
           }
         ]

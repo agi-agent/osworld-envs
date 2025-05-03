@@ -9,7 +9,7 @@
       "parameters": {
         "files": [
           {
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/libreoffice_writer/Graphemes_Sound_Letter_Patterns.docx",
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/libreoffice_writer/936321ce-5236-426a-9a20-e0e3c5dc536f_Graphemes_Sound_Letter_Patterns.docx",
             "path": "/home/user/Desktop/Graphemes_Sound_Letter_Patterns.docx"
           }
         ]
@@ -55,7 +55,7 @@
     "func": "compare_docx_tables",
     "expected": {
       "type": "cloud_file",
-      "path": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/evaluation/libreoffice_writer/Graphemes_Sound_Letter_Patterns_Gold.docx",
+      "path": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/evaluation/libreoffice_writer/936321ce-5236-426a-9a20-e0e3c5dc536f_Graphemes_Sound_Letter_Patterns_Gold.docx",
       "dest": "Graphemes_Sound_Letter_Patterns_Gold.docx"
     },
     "result": {

@@ -9,7 +9,7 @@
       "parameters": {
         "files": [
           {
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/vlc/Baby Justin Bieber.mp4",
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/vlc/8f080098-ddb1-424c-b438-4e96e5e4786e_Baby Justin Bieber.mp4",
             "path": "/home/user/Desktop/Baby Justin Bieber.mp4"
           }
         ]
@@ -45,7 +45,7 @@
     "func": "compare_audios",
     "expected": {
       "type": "cloud_file",
-      "path": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/evaluation/vlc/baby_gold.mp3",
+      "path": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/evaluation/vlc/8f080098-ddb1-424c-b438-4e96e5e4786e_baby_gold.mp3",
       "dest": "baby_gold.mp3"
     },
     "result": {

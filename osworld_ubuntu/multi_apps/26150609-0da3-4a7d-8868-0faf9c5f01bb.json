@@ -30,19 +30,19 @@
         "files": [
           {
             "path": "/home/user/Desktop/snake/food.py",
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/multi_apps/food.py"
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/multi_apps/26150609-0da3-4a7d-8868-0faf9c5f01bb_food.py"
           },
           {
             "path": "/home/user/Desktop/snake/main.py",
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/multi_apps/main.py"
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/multi_apps/26150609-0da3-4a7d-8868-0faf9c5f01bb_main.py"
           },
           {
             "path": "/home/user/Desktop/snake/settings.py",
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/multi_apps/settings.py"
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/multi_apps/26150609-0da3-4a7d-8868-0faf9c5f01bb_settings.py"
           },
           {
             "path": "/home/user/Desktop/snake/snake.py",
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/multi_apps/snake.py"
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/multi_apps/26150609-0da3-4a7d-8868-0faf9c5f01bb_snake.py"
           }
         ]
       }
@@ -83,7 +83,7 @@
     },
     "expected": {
       "type": "cloud_file",
-      "path": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/evaluation/multi_apps/test_suite.py",
+      "path": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/evaluation/multi_apps/26150609-0da3-4a7d-8868-0faf9c5f01bb_test_suite.py",
       "dest": "test_suite.py"
     }
   }

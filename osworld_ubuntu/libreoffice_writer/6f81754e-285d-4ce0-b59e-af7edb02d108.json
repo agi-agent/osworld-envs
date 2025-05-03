@@ -9,7 +9,7 @@
       "parameters": {
         "files": [
           {
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/libreoffice_writer/HK_train_record.docx",
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/libreoffice_writer/6f81754e-285d-4ce0-b59e-af7edb02d108_HK_train_record.docx",
             "path": "/home/user/Desktop/HK_train_record.docx"
           }
         ]
@@ -60,7 +60,7 @@
     },
     "expected": {
       "type": "cloud_file",
-      "path": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/evaluation/libreoffice_writer/HK_train_record_Gold.docx",
+      "path": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/evaluation/libreoffice_writer/6f81754e-285d-4ce0-b59e-af7edb02d108_HK_train_record_Gold.docx",
       "dest": "HK_train_record_Gold.docx"
     }
   }

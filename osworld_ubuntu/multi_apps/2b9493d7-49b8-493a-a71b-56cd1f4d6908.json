@@ -9,7 +9,7 @@
       "parameters": {
         "files": [
           {
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/multi_apps/15-MB-docx-file-download.docx",
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/multi_apps/2b9493d7-49b8-493a-a71b-56cd1f4d6908_15-MB-docx-file-download.docx",
             "path": "/home/user/Desktop/15-MB-docx-file-download.docx"
           }
         ]

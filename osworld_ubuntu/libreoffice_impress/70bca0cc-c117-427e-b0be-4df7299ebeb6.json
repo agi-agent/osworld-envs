@@ -9,7 +9,7 @@
       "parameters": {
         "files": [
           {
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/libreoffice_impress/71_6.pptx",
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/libreoffice_impress/70bca0cc-c117-427e-b0be-4df7299ebeb6_71_6.pptx",
             "path": "/home/user/Desktop/71_6.pptx"
           }
         ]
@@ -61,7 +61,7 @@
     "func": "compare_pptx_files",
     "expected": {
       "type": "cloud_file",
-      "path": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/evaluation/libreoffice_impress/71_6_Gold.pptx",
+      "path": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/evaluation/libreoffice_impress/70bca0cc-c117-427e-b0be-4df7299ebeb6_71_6_Gold.pptx",
       "dest": "71_6_Gold.pptx"
     },
     "result": {

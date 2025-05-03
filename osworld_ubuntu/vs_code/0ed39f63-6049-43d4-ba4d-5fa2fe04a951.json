@@ -9,7 +9,7 @@
       "parameters": {
         "files": [
           {
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/vs_code/vscode_replace_text.txt",
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/vs_code/0ed39f63-6049-43d4-ba4d-5fa2fe04a951_vscode_replace_text.txt",
             "path": "/home/user/Desktop/vscode_replace_text.txt"
           }
         ]
@@ -69,7 +69,7 @@
     "func": "compare_text_file",
     "expected": {
       "type": "cloud_file",
-      "path": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/evaluation/vs_code/vscode_replace_text_gold.txt",
+      "path": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/evaluation/vs_code/0ed39f63-6049-43d4-ba4d-5fa2fe04a951_vscode_replace_text_gold.txt",
       "dest": "vscode_replace_text_gold.txt"
     },
     "result": {

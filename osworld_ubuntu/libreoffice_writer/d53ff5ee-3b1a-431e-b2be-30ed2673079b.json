@@ -9,7 +9,7 @@
       "parameters": {
         "files": [
           {
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/libreoffice_writer/presentation_instruction_2023_Feb.docx",
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/libreoffice_writer/d53ff5ee-3b1a-431e-b2be-30ed2673079b_presentation_instruction_2023_Feb.docx",
             "path": "/home/user/Desktop/presentation_instruction_2023_Feb.docx"
           }
         ]
@@ -55,7 +55,7 @@
     ],
     "expected": {
       "type": "cloud_file",
-      "path": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/evaluation/libreoffice_writer/presentation_instruction_2023_Feb_Gold.docx",
+      "path": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/evaluation/libreoffice_writer/d53ff5ee-3b1a-431e-b2be-30ed2673079b_presentation_instruction_2023_Feb_Gold.docx",
       "dest": "presentation_instruction_2023_Feb_Gold.docx"
     },
     "result": {

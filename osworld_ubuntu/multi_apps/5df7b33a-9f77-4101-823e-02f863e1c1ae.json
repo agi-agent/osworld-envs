@@ -9,7 +9,7 @@
       "parameters": {
         "files": [
           {
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/multi_apps/book.zip",
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/multi_apps/5df7b33a-9f77-4101-823e-02f863e1c1ae_book.zip",
             "path": "/home/user/Desktop/book.zip"
           }
         ]
@@ -67,7 +67,7 @@
     },
     "expected": {
       "type": "cloud_file",
-      "path": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/evaluation/multi_apps/gold_book.zip",
+      "path": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/evaluation/multi_apps/5df7b33a-9f77-4101-823e-02f863e1c1ae_gold_book.zip",
       "dest": "gold_book.zip"
     },
     "options": {

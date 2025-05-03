@@ -9,11 +9,11 @@
       "parameters": {
         "files": [
           {
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/gimp/white_background_with_object.xcf",
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/gimp/734d6579-c07d-47a8-9ae2-13339795476b_white_background_with_object.xcf",
             "path": "/home/user/Desktop/white_background_with_object.xcf"
           },
           {
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/gimp/white_background_with_object.png",
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/gimp/734d6579-c07d-47a8-9ae2-13339795476b_white_background_with_object.png",
             "path": "/home/user/Desktop/white_background_with_object.png"
           }
         ]

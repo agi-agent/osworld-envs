@@ -9,7 +9,7 @@
       "parameters": {
         "files": [
           {
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/os/setup.sh",
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/os/5c1075ca-bb34-46a3-a7a0-029bd7463e79_setup.sh",
             "path": "setup.sh"
           }
         ]
@@ -27,7 +27,7 @@
       "parameters": {
         "files": [
           {
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/os/eval.sh",
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/os/5c1075ca-bb34-46a3-a7a0-029bd7463e79_eval.sh",
             "path": "eval.sh"
           }
         ]

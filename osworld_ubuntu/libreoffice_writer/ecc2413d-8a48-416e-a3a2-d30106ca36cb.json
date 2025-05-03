@@ -9,7 +9,7 @@
       "parameters": {
         "files": [
           {
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/libreoffice_writer/Sample_Statutory_Declaration.docx",
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/libreoffice_writer/ecc2413d-8a48-416e-a3a2-d30106ca36cb_Sample_Statutory_Declaration.docx",
             "path": "/home/user/Desktop/Sample_Statutory_Declaration.docx"
           }
         ]

@@ -9,7 +9,7 @@
       "parameters": {
         "files": [
           {
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/multi_apps/best_awards_acl.xlsx",
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/multi_apps/67890eb6-6ce5-4c00-9e3d-fb4972699b06_best_awards_acl.xlsx",
             "path": "/home/user/Desktop/best_awards_acl.xlsx"
           }
         ]
@@ -94,7 +94,7 @@
     },
     "expected": {
       "type": "cloud_file",
-      "path": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/evaluation/multi_apps/gold_best_awards_acl.xlsx",
+      "path": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/evaluation/multi_apps/67890eb6-6ce5-4c00-9e3d-fb4972699b06_gold_best_awards_acl.xlsx",
       "dest": "gold_best_awards_acl.xlsx"
     },
     "options": {

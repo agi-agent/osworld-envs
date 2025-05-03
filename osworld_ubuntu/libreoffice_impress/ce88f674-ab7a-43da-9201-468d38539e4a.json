@@ -9,7 +9,7 @@
       "parameters": {
         "files": [
           {
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/libreoffice_impress/AM_Last_Page_Template.pptx",
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/libreoffice_impress/ce88f674-ab7a-43da-9201-468d38539e4a_AM_Last_Page_Template.pptx",
             "path": "/home/user/Desktop/AM_Last_Page_Template.pptx"
           }
         ]

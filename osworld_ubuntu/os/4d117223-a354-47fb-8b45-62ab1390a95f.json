@@ -10,7 +10,7 @@
       "parameters": {
         "files": [
           {
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/os/setup.sh",
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/os/4d117223-a354-47fb-8b45-62ab1390a95f_setup.sh",
             "path": "setup.sh"
           }
         ]

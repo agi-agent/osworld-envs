@@ -9,7 +9,7 @@
       "parameters": {
         "files": [
           {
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/vlc/lecture.pdf",
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/vlc/386dbd0e-0241-4a0a-b6a2-6704fba26b1c_lecture.pdf",
             "path": "/home/user/Desktop/lecture.pdf"
           }
         ]
@@ -20,7 +20,7 @@
       "parameters": {
         "files": [
           {
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/vlc/Colorful-Flowers.mp3",
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/vlc/386dbd0e-0241-4a0a-b6a2-6704fba26b1c_Colorful-Flowers.mp3",
             "path": "/home/user/Desktop/Colorful-Flowers.mp3"
           }
         ]

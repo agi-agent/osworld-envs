@@ -19,15 +19,15 @@
       "parameters": {
         "files": [
           {
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/vs_code/main.py",
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/vs_code/5e2d93d8-8ad0-4435-b150-1692aacaa994_main.py",
             "path": "/home/user/project/main.py"
           },
           {
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/vs_code/README.md",
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/vs_code/5e2d93d8-8ad0-4435-b150-1692aacaa994_README.md",
             "path": "/home/user/project/README.md"
           },
           {
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/vs_code/settings.json",
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/vs_code/5e2d93d8-8ad0-4435-b150-1692aacaa994_settings.json",
             "path": "/home/user/project/.vscode/settings.json"
           }
         ]

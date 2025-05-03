@@ -9,7 +9,7 @@
       "parameters": {
         "files": [
           {
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/libreoffice_writer/Novels_Intro_Packet.docx",
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/libreoffice_writer/0810415c-bde4-4443-9047-d5f70165a697_Novels_Intro_Packet.docx",
             "path": "/home/user/Desktop/Novels_Intro_Packet.docx"
           }
         ]
@@ -55,7 +55,7 @@
     "func": "compare_line_spacing",
     "expected": {
       "type": "cloud_file",
-      "path": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/evaluation/libreoffice_writer/Novels_Intro_Packet_Gold.docx",
+      "path": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/evaluation/libreoffice_writer/0810415c-bde4-4443-9047-d5f70165a697_Novels_Intro_Packet_Gold.docx",
       "dest": "Novels_Intro_Packet_Gold.docx"
     },
     "result": {

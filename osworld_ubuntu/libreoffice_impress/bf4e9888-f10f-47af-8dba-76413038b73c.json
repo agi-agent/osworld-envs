@@ -9,7 +9,7 @@
       "parameters": {
         "files": [
           {
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/libreoffice_impress/4.3-Template_4.29.2016.pptx",
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/libreoffice_impress/bf4e9888-f10f-47af-8dba-76413038b73c_4.3-Template_4.29.2016.pptx",
             "path": "/home/user/Desktop/4.3-Template_4.29.2016.pptx"
           }
         ]
@@ -26,7 +26,7 @@
       "parameters": {
         "files": [
           {
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/libreoffice_impress/pic1.png",
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/libreoffice_impress/bf4e9888-f10f-47af-8dba-76413038b73c_pic1.png",
             "path": "/home/user/Desktop/pic1.png"
           }
         ]
@@ -37,7 +37,7 @@
       "parameters": {
         "files": [
           {
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/libreoffice_impress/pic2.png",
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/libreoffice_impress/bf4e9888-f10f-47af-8dba-76413038b73c_pic2.png",
             "path": "/home/user/Desktop/pic2.png"
           }
         ]
@@ -48,7 +48,7 @@
       "parameters": {
         "files": [
           {
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/libreoffice_impress/pic3.png",
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/libreoffice_impress/bf4e9888-f10f-47af-8dba-76413038b73c_pic3.png",
             "path": "/home/user/Desktop/pic3.png"
           }
         ]
@@ -59,7 +59,7 @@
       "parameters": {
         "files": [
           {
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/libreoffice_impress/pic4.png",
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/libreoffice_impress/bf4e9888-f10f-47af-8dba-76413038b73c_pic4.png",
             "path": "/home/user/Desktop/pic4.png"
           }
         ]
@@ -70,7 +70,7 @@
       "parameters": {
         "files": [
           {
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/libreoffice_impress/pic5.png",
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/libreoffice_impress/bf4e9888-f10f-47af-8dba-76413038b73c_pic5.png",
             "path": "/home/user/Desktop/pic5.png"
           }
         ]
@@ -81,7 +81,7 @@
       "parameters": {
         "files": [
           {
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/libreoffice_impress/pic6.png",
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/libreoffice_impress/bf4e9888-f10f-47af-8dba-76413038b73c_pic6.png",
             "path": "/home/user/Desktop/pic6.png"
           }
         ]
@@ -127,7 +127,7 @@
     "func": "compare_pptx_files",
     "expected": {
       "type": "cloud_file",
-      "path": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/evaluation/libreoffice_impress/4.3-Template_4.29.2016_Gold.pptx",
+      "path": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/evaluation/libreoffice_impress/bf4e9888-f10f-47af-8dba-76413038b73c_4.3-Template_4.29.2016_Gold.pptx",
       "dest": "4.3-Template_4.29.2016_Gold.pptx"
     },
     "result": {

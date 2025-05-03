@@ -10,7 +10,7 @@
         "files": [
           {
             "path": "/home/user/Desktop/Unlocking-the-Power-of-ChatGPT.pptx",
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/multi_apps/Unlocking-the-Power-of-ChatGPT.pptx"
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/multi_apps/bb83cab4-e5c7-42c7-a67b-e46068032b86_Unlocking-the-Power-of-ChatGPT.pptx"
           }
         ]
       }
@@ -62,7 +62,7 @@
     },
     "expected": {
       "type": "cloud_file",
-      "path": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/evaluation/multi_apps/script_Gold.docx",
+      "path": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/evaluation/multi_apps/bb83cab4-e5c7-42c7-a67b-e46068032b86_script_Gold.docx",
       "dest": "script_Gold.docx"
     }
   }

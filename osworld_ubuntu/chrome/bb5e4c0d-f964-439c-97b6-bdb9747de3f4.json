@@ -29,14 +29,14 @@
     "chrome"
   ],
   "evaluator": {
-    "func": "match_in_list",
+    "func": "exact_match",
     "result": {
       "type": "default_search_engine"
     },
     "expected": {
       "type": "rule",
       "rules": {
-        "expected": ["Microsoft Bing", "Bing"]
+        "expected": "Bing"
       }
     }
   }

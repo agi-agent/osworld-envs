@@ -9,7 +9,7 @@
       "parameters": {
         "files": [
           {
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/vlc/Interstellar Movie - Official Trailer.mp4",
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/vlc/efcf0d81-0835-4880-b2fd-d866e8bc2294_Interstellar Movie - Official Trailer.mp4",
             "path": "/home/user/Desktop/Interstellar Movie - Official Trailer.mp4"
           }
         ]
@@ -47,7 +47,7 @@
     "func": "compare_images",
     "expected": {
       "type": "cloud_file",
-      "path": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/evaluation/vlc/interstellar_wallpaper_gold.png",
+      "path": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/evaluation/vlc/efcf0d81-0835-4880-b2fd-d866e8bc2294_interstellar_wallpaper_gold.png",
       "dest": "interstellar_wallpaper_gold.png"
     },
     "result": {

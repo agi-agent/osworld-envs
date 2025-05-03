@@ -9,7 +9,7 @@
       "parameters": {
         "files": [
           {
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/libreoffice_writer/CCCH9003_Tutorial_guidelines.docx",
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/libreoffice_writer/88fe4b2d-3040-4c70-9a70-546a47764b48_CCCH9003_Tutorial_guidelines.docx",
             "path": "/home/user/Desktop/CCCH9003_Tutorial_guidelines.docx"
           }
         ]
@@ -55,7 +55,7 @@
     "func": "compare_docx_files",
     "expected": {
       "type": "cloud_file",
-      "path": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/evaluation/libreoffice_writer/CCCH9003_Tutorial_guidelines_Gold.docx",
+      "path": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/evaluation/libreoffice_writer/88fe4b2d-3040-4c70-9a70-546a47764b48_CCCH9003_Tutorial_guidelines_Gold.docx",
       "dest": "CCCH9003_Tutorial_guidelines_Gold.docx"
     },
     "result": {

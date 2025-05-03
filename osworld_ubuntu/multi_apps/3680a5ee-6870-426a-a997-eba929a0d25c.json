@@ -9,11 +9,11 @@
       "parameters": {
         "files": [
           {
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/multi_apps/file1.xlsx",
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/multi_apps/3680a5ee-6870-426a-a997-eba929a0d25c_file1.xlsx",
             "path": "/home/user/Desktop/file1.xlsx"
           },
           {
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/multi_apps/file2.ods",
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/multi_apps/3680a5ee-6870-426a-a997-eba929a0d25c_file2.ods",
             "path": "/home/user/Desktop/file2.ods"
           }
         ]
@@ -63,7 +63,7 @@
       },
       {
         "type": "cloud_file",
-        "path": "https://drive.usercontent.google.com/download?id=1OBQXIJ06HQeodaCwU7z0Kq_-d3YuGNqE&export=download",
+        "path": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/evaluation/multi_apps/3680a5ee-6870-426a-a997-eba929a0d25c_output_gold.csv",
         "dest": "output_gold.csv"
       }
     ]

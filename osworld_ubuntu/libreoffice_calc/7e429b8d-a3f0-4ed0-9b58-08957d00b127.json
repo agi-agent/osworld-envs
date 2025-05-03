@@ -9,7 +9,7 @@
       "parameters": {
         "files": [
           {
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/libreoffice_calc/VLOOKUP_Fill_the_form.xlsx",
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/libreoffice_calc/7e429b8d-a3f0-4ed0-9b58-08957d00b127_VLOOKUP_Fill_the_form.xlsx",
             "path": "/home/user/VLOOKUP_Fill_the_form.xlsx"
           }
         ]
@@ -61,7 +61,7 @@
     "func": "compare_table",
     "expected": {
       "type": "cloud_file",
-      "path": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/evaluation/libreoffice_calc/VLOOKUP_Fill_the_form_gold.xlsx",
+      "path": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/evaluation/libreoffice_calc/7e429b8d-a3f0-4ed0-9b58-08957d00b127_VLOOKUP_Fill_the_form_gold.xlsx",
       "dest": "VLOOKUP_Fill_the_form_gold.xlsx"
     },
     "result": {

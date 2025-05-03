@@ -9,7 +9,7 @@
       "parameters": {
         "files": [
           {
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/libreoffice_impress/Forests.pptx",
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/libreoffice_impress/af23762e-2bfd-4a1d-aada-20fa8de9ce07_Forests.pptx",
             "path": "/home/user/Desktop/Forests.pptx"
           }
         ]
@@ -61,7 +61,7 @@
     "func": "compare_pptx_files",
     "expected": {
       "type": "cloud_file",
-      "path": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/evaluation/libreoffice_impress/Forests_Gold.pptx",
+      "path": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/evaluation/libreoffice_impress/af23762e-2bfd-4a1d-aada-20fa8de9ce07_Forests_Gold.pptx",
       "dest": "Forests_Gold.pptx"
     },
     "result": {

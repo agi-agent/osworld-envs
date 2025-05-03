@@ -28,7 +28,7 @@
       "parameters": {
         "files": [
           {
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/multi_apps/Professor_Contact.xlsx",
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/multi_apps/c7c1e4c3-9e92-4eba-a4b8-689953975ea4_Professor_Contact.xlsx",
             "path": "/home/user/Desktop/Professor_Contact.xlsx"
           }
         ]
@@ -81,7 +81,7 @@
     "func": "compare_table",
     "expected": {
       "type": "cloud_file",
-      "path": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/evaluation/multi_apps/Professor_Contact_Gold.xlsx",
+      "path": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/evaluation/multi_apps/c7c1e4c3-9e92-4eba-a4b8-689953975ea4_Professor_Contact_Gold.xlsx",
       "dest": "Professor_Contact_Gold.xlsx"
     },
     "result": {

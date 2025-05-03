@@ -9,7 +9,7 @@
       "parameters": {
         "files": [
           {
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/libreoffice_writer/loa-one-time-submission-sealand.docx",
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/libreoffice_writer/f178a4a9-d090-4b56-bc4c-4b72a61a035d_loa-one-time-submission-sealand.docx",
             "path": "/home/user/Desktop/loa-one-time-submission-sealand.docx"
           }
         ]

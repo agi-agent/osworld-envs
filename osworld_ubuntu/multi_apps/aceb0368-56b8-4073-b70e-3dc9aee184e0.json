@@ -9,7 +9,7 @@
       "parameters": {
         "files": [
           {
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/multi_apps/exam.zip",
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/multi_apps/aceb0368-56b8-4073-b70e-3dc9aee184e0_exam.zip",
             "path": "/home/user/exam.zip"
           }
         ]
@@ -65,7 +65,7 @@
     "func": "compare_table",
     "expected": {
       "type": "cloud_file",
-      "path": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/evaluation/multi_apps/gold_grades.xlsx",
+      "path": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/evaluation/multi_apps/aceb0368-56b8-4073-b70e-3dc9aee184e0_gold_grades.xlsx",
       "dest": "gold_grades.xlsx"
     },
     "result": {

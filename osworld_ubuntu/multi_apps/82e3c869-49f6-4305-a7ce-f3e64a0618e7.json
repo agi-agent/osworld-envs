@@ -20,27 +20,27 @@
         "files": [
           {
             "path": "/home/user/Desktop/IDS LLM seminar/DSC00659.jpg",
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/multi_apps/DSC00659.jpg"
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/multi_apps/82e3c869-49f6-4305-a7ce-f3e64a0618e7_DSC00659.jpg"
           },
           {
             "path": "/home/user/Desktop/IDS LLM seminar/DSC00657.jpg",
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/multi_apps/DSC00657.jpg"
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/multi_apps/82e3c869-49f6-4305-a7ce-f3e64a0618e7_DSC00657.jpg"
           },
           {
             "path": "/home/user/Desktop/IDS LLM seminar/DSC00574.jpg",
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/multi_apps/DSC00574.jpg"
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/multi_apps/82e3c869-49f6-4305-a7ce-f3e64a0618e7_DSC00574.jpg"
           },
           {
             "path": "/home/user/Desktop/IDS LLM seminar/DSC00554.jpg",
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/multi_apps/DSC00554.jpg"
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/multi_apps/82e3c869-49f6-4305-a7ce-f3e64a0618e7_DSC00554.jpg"
           },
           {
             "path": "/home/user/Desktop/IDS LLM seminar/DSC00495.jpg",
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/multi_apps/DSC00495.jpg"
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/multi_apps/82e3c869-49f6-4305-a7ce-f3e64a0618e7_DSC00495.jpg"
           },
           {
             "path": "/home/user/Desktop/IDS LLM seminar/DSC00454.jpg",
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/multi_apps/DSC00454.jpg"
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/multi_apps/82e3c869-49f6-4305-a7ce-f3e64a0618e7_DSC00454.jpg"
           }
         ]
       }
@@ -95,10 +95,10 @@
     "expected": {
       "type": "cloud_file",
       "path": [
-        "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/evaluation/multi_apps/DSC00657_gold.jpg",
-        "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/evaluation/multi_apps/DSC00574_gold.jpg",
-        "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/evaluation/multi_apps/DSC00554_gold.jpg",
-        "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/evaluation/multi_apps/DSC00495_gold.jpg"
+        "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/evaluation/multi_apps/82e3c869-49f6-4305-a7ce-f3e64a0618e7_DSC00657_gold.jpg",
+        "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/evaluation/multi_apps/82e3c869-49f6-4305-a7ce-f3e64a0618e7_DSC00574_gold.jpg",
+        "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/evaluation/multi_apps/82e3c869-49f6-4305-a7ce-f3e64a0618e7_DSC00554_gold.jpg",
+        "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/evaluation/multi_apps/82e3c869-49f6-4305-a7ce-f3e64a0618e7_DSC00495_gold.jpg"
       ],
       "dest": [
         "DSC00657_gold.jpg",

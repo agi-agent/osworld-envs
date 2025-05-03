@@ -34,7 +34,7 @@
       "parameters": {
         "files": [
           {
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/multi_apps/2206.08853.pdf",
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/multi_apps/a82b78bb-7fde-4cb3-94a4-035baf10bcf0_2206.08853.pdf",
             "path": "/home/user/Desktop/2206.08853.pdf"
           }
         ]

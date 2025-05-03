@@ -9,7 +9,7 @@
       "parameters": {
         "files": [
           {
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/libreoffice_calc/Zoom_Out_Oversized_Cells.xlsx",
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/libreoffice_calc/1334ca3e-f9e3-4db8-9ca7-b4c653be7d17_Zoom_Out_Oversized_Cells.xlsx",
             "path": "/home/user/Zoom_Out_Oversized_Cells.xlsx"
           }
         ]
@@ -66,7 +66,7 @@
     },
     "expected": {
       "type": "cloud_file",
-      "path": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/evaluation/libreoffice_calc/Zoom_Out_Oversized_Cells_gold.xlsx",
+      "path": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/evaluation/libreoffice_calc/1334ca3e-f9e3-4db8-9ca7-b4c653be7d17_Zoom_Out_Oversized_Cells_gold.xlsx",
       "dest": "Zoom_Out_Oversized_Cells_gold.xlsx"
     },
     "options": {

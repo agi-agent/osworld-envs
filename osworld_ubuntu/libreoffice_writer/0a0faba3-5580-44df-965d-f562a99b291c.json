@@ -9,7 +9,7 @@
       "parameters": {
         "files": [
           {
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/libreoffice_writer/04 CHIN9505 EBook Purchasing info 2021 Jan.docx",
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/libreoffice_writer/0a0faba3-5580-44df-965d-f562a99b291c_04 CHIN9505 EBook Purchasing info 2021 Jan.docx",
             "path": "/home/user/Desktop/04 CHIN9505 EBook Purchasing info 2021 Jan.docx"
           }
         ]
@@ -55,7 +55,7 @@
     "func": "check_tabstops",
     "expected": {
       "type": "cloud_file",
-      "path": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/evaluation/libreoffice_writer/04 CHIN9505 EBook Purchasing info 2021 Jan_Gold.docx",
+      "path": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/evaluation/libreoffice_writer/0a0faba3-5580-44df-965d-f562a99b291c_04 CHIN9505 EBook Purchasing info 2021 Jan_Gold.docx",
       "dest": "04 CHIN9505 EBook Purchasing info 2021 Jan_Gold.docx"
     },
     "result": {

@@ -9,7 +9,7 @@
       "parameters": {
         "files": [
           {
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/libreoffice_calc/Invoices.xlsx",
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/libreoffice_calc/1954cced-e748-45c4-9c26-9855b97fbc5e_Invoices.xlsx",
             "path": "/home/user/Invoices.xlsx"
           }
         ]
@@ -61,7 +61,7 @@
     "func": "compare_table",
     "expected": {
       "type": "cloud_file",
-      "path": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/evaluation/libreoffice_calc/8_Invoices_gt1.xlsx",
+      "path": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/evaluation/libreoffice_calc/1954cced-e748-45c4-9c26-9855b97fbc5e_8_Invoices_gt1.xlsx",
       "dest": "8_Invoices_gt1.xlsx"
     },
     "result": {

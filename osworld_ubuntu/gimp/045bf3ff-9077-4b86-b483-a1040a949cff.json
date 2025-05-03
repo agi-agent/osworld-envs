@@ -9,7 +9,7 @@
       "parameters": {
         "files": [
           {
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/gimp/gate.jpeg",
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/gimp/045bf3ff-9077-4b86-b483-a1040a949cff_gate.jpeg",
             "path": "/home/user/Desktop/gate.jpeg"
           }
         ]

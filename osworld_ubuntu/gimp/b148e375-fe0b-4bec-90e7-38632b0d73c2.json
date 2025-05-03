@@ -9,7 +9,7 @@
       "parameters": {
         "files": [
           {
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/gimp/white_background.xcf",
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/gimp/b148e375-fe0b-4bec-90e7-38632b0d73c2_white_background.xcf",
             "path": "/home/user/Desktop/white_background.xcf"
           }
         ]

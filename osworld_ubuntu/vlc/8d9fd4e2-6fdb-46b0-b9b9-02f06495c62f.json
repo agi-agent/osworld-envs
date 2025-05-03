@@ -9,7 +9,7 @@
       "parameters": {
         "files": [
           {
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/vlc/Gen 2.mp4",
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/vlc/8d9fd4e2-6fdb-46b0-b9b9-02f06495c62f_Gen 2.mp4",
             "path": "/home/user/Desktop/Gen 2.mp4"
           }
         ]

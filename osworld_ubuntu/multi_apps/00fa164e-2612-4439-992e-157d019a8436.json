@@ -20,11 +20,11 @@
         "files": [
           {
             "path": "/home/user/Documents/awesome-desktop/awe_desk_env.docx",
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/multi_apps/awe_desk_env.docx"
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/multi_apps/00fa164e-2612-4439-992e-157d019a8436_awe_desk_env.docx"
           },
           {
             "path": "/home/user/Documents/awesome-desktop/expe-results.xlsx",
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/multi_apps/expe-results.xlsx"
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/multi_apps/00fa164e-2612-4439-992e-157d019a8436_expe-results.xlsx"
           }
         ]
       }
@@ -82,7 +82,7 @@
     },
     "expected": {
       "type": "cloud_file",
-      "path": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/evaluation/multi_apps/awe_desk_env_gt.docx",
+      "path": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/evaluation/multi_apps/00fa164e-2612-4439-992e-157d019a8436_awe_desk_env_gt.docx",
       "dest": "awe_desk_env_gt.docx"
     }
   }

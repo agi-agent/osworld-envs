@@ -22,39 +22,39 @@
         "files": [
           {
             "path": "/home/user/Documents/Finance/receipts/aws-invoice-2308.pdf",
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/multi_apps/aws-invoice-2308.pdf"
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/multi_apps/788b3701-3ec9-4b67-b679-418bfa726c22_aws-invoice-2308.pdf"
           },
           {
             "path": "/home/user/Documents/Finance/receipts/aws-invoice-2309.pdf",
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/multi_apps/aws-invoice-2309.pdf"
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/multi_apps/788b3701-3ec9-4b67-b679-418bfa726c22_aws-invoice-2309.pdf"
           },
           {
             "path": "/home/user/Documents/Finance/receipts/aws-invoice-2310.pdf",
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/multi_apps/aws-invoice-2310.pdf"
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/multi_apps/788b3701-3ec9-4b67-b679-418bfa726c22_aws-invoice-2310.pdf"
           },
           {
             "path": "/home/user/Documents/Finance/receipts/aws-invoice-2311.pdf",
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/multi_apps/aws-invoice-2311.pdf"
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/multi_apps/788b3701-3ec9-4b67-b679-418bfa726c22_aws-invoice-2311.pdf"
           },
           {
             "path": "/home/user/Documents/Finance/receipts/aws-invoice-2312.pdf",
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/multi_apps/aws-invoice-2312.pdf"
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/multi_apps/788b3701-3ec9-4b67-b679-418bfa726c22_aws-invoice-2312.pdf"
           },
           {
             "path": "/home/user/Documents/Finance/receipts/X-receipt-2312.pdf",
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/multi_apps/X-receipt-2312.pdf"
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/multi_apps/788b3701-3ec9-4b67-b679-418bfa726c22_X-receipt-2312.pdf"
           },
           {
             "path": "/home/user/Documents/Finance/tally_book.xlsx",
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/multi_apps/tally_book.xlsx"
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/multi_apps/788b3701-3ec9-4b67-b679-418bfa726c22_tally_book.xlsx"
           },
           {
             "path": "/home/user/.projects.tar.xz",
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/multi_apps/.projects.tar.xz"
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/multi_apps/788b3701-3ec9-4b67-b679-418bfa726c22_.projects.tar.xz"
           },
           {
             "path": "/home/user/.old-chapters.tar.xz",
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/multi_apps/.old-chapters.tar.xz"
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/multi_apps/788b3701-3ec9-4b67-b679-418bfa726c22_.old-chapters.tar.xz"
           }
         ]
       }
@@ -107,7 +107,7 @@
     },
     "expected": {
       "type": "cloud_file",
-      "path": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/evaluation/multi_apps/real.tex",
+      "path": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/evaluation/multi_apps/788b3701-3ec9-4b67-b679-418bfa726c22_real.tex",
       "dest": "real.tex"
     }
   }

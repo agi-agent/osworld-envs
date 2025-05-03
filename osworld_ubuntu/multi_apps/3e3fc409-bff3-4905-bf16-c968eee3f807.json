@@ -36,7 +36,7 @@
       "parameters": {
         "files": [
           {
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/multi_apps/movies.xlsx",
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/multi_apps/3e3fc409-bff3-4905-bf16-c968eee3f807_movies.xlsx",
             "path": "/home/user/Desktop/movies.xlsx"
           }
         ]
@@ -67,7 +67,7 @@
     },
     "expected": {
       "type": "cloud_file",
-      "path": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/evaluation/multi_apps/gold_movies.xlsx",
+      "path": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/evaluation/multi_apps/3e3fc409-bff3-4905-bf16-c968eee3f807_gold_movies.xlsx",
       "dest": "gold_movies.xlsx"
     },
     "options": {

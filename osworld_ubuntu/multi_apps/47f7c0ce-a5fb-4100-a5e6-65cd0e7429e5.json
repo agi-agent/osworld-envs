@@ -9,11 +9,11 @@
       "parameters": {
         "files": [
           {
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/multi_apps/landscape.mp4",
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/multi_apps/47f7c0ce-a5fb-4100-a5e6-65cd0e7429e5_landscape.mp4",
             "path": "/home/user/Desktop/landscape.mp4"
           },
           {
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/multi_apps/Robotic_Workshop_Infographics.pptx",
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/multi_apps/47f7c0ce-a5fb-4100-a5e6-65cd0e7429e5_Robotic_Workshop_Infographics.pptx",
             "path": "/home/user/Desktop/Robotic_Workshop_Infographics.pptx"
           }
         ]
@@ -88,7 +88,7 @@
     },
     "expected": {
       "type": "cloud_file",
-      "path": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/evaluation/multi_apps/gold_landscape.png",
+      "path": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/evaluation/multi_apps/47f7c0ce-a5fb-4100-a5e6-65cd0e7429e5_gold_landscape.png",
       "dest": "gold_landscape.png"
     }
   }

@@ -9,7 +9,7 @@
       "parameters": {
         "files": [
           {
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/libreoffice_calc/RampUpAndDown.xlsx",
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/libreoffice_calc/4de54231-e4b5-49e3-b2ba-61a0bec721c0_RampUpAndDown.xlsx",
             "path": "/home/user/RampUpAndDown.xlsx"
           }
         ]
@@ -61,7 +61,7 @@
     "func": "compare_table",
     "expected": {
       "type": "cloud_file",
-      "path": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/evaluation/libreoffice_calc/3_RampUpAndDown_gt1.xlsx",
+      "path": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/evaluation/libreoffice_calc/4de54231-e4b5-49e3-b2ba-61a0bec721c0_3_RampUpAndDown_gt1.xlsx",
       "dest": "3_RampUpAndDown_gt1.xlsx"
     },
     "result": {

@@ -9,7 +9,7 @@
       "parameters": {
         "files": [
           {
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/multi_apps/helloExtension.zip",
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/multi_apps/a74b607e-6bb5-4ea8-8a7c-5d97c7bbcd2a_helloExtension.zip",
             "path": "/home/user/Desktop/helloExtension.zip"
           }
         ]

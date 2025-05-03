@@ -9,11 +9,11 @@
       "parameters": {
         "files": [
           {
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/multi_apps/2023_validation_Book_Reading_Rate.xlsx",
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/multi_apps/da52d699-e8d2-4dc5-9191-a2199e0b6a9b_2023_validation_Book_Reading_Rate.xlsx",
             "path": "/home/user/Desktop/2023_validation_Book_Reading_Rate.xlsx"
           },
           {
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/multi_apps/book_list_result.docx",
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/multi_apps/da52d699-e8d2-4dc5-9191-a2199e0b6a9b_book_list_result.docx",
             "path": "/home/user/Desktop/book_list_result.docx"
           }
         ]
@@ -61,7 +61,7 @@
     ],
     "expected": {
       "type": "cloud_file",
-      "path": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/evaluation/multi_apps/book_list_result_Gold.docx",
+      "path": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/evaluation/multi_apps/da52d699-e8d2-4dc5-9191-a2199e0b6a9b_book_list_result_Gold.docx",
       "dest": "book_list_result_Gold.docx"
     },
     "result": {

@@ -47,7 +47,7 @@
     },
     "expected": {
       "type": "cloud_file",
-      "path": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/evaluation/multi_apps/colab_Gold.py",
+      "path": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/evaluation/multi_apps/dd60633f-2c72-42ba-8547-6f2c8cb0fdb0_colab_Gold.py",
       "dest": "colab_Gold.py"
     }
   }

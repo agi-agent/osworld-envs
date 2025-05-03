@@ -59,7 +59,7 @@
       "parameters": {
         "files": [
           {
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/multi_apps/thunderbird-profile.tar.gz",
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/multi_apps/78aed49a-a710-4321-a793-b611a7c5b56b_thunderbird-profile.tar.gz",
             "path": "/home/user/thunderbird-profile.tar.gz"
           }
         ]
@@ -139,8 +139,8 @@
         "type": "cloud_file",
         "multi": true,
         "path": [
-          "https://drive.usercontent.google.com/download?id=12ielR0p3jFZ4UDfGlC7fdF88uUTM_3bn&export=download&authuser=0&confirm=t&uuid=6ef47d29-2772-49cd-87e7-17efd587f1ba&at=APZUnTUGjXxDcDcMF5RoAsVtbFOB:1706689562530",
-          "https://drive.usercontent.google.com/download?id=13XQ4Hr62WyHVwpefjD-tgkpjb0p9HKpe&export=download&authuser=0&confirm=t&uuid=ad4ee033-83e4-4df4-9f9c-ac61d43634bc&at=APZUnTV5ZI1GFXNHTyIblwSKjyku:1706692277803"
+          "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/evaluation/multi_apps/78aed49a-a710-4321-a793-b611a7c5b56b_have_seen_gold",
+          "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/evaluation/multi_apps/78aed49a-a710-4321-a793-b611a7c5b56b_Bills_gold"
         ],
         "dest": [
           "have_seen_gold",
@@ -155,8 +155,8 @@
         "type": "cloud_file",
         "multi": true,
         "path": [
-          "https://drive.usercontent.google.com/download?id=1SlzOPRfzaKyhBERy-ks2-rjzrjtvgoDG&export=download&authuser=0&confirm=t&uuid=e4cb717b-fb5d-4860-99d9-9e1f38df2592&at=APZUnTXlcSimcf9qZ7uZmlAUj-zQ:1706683984205",
-          "https://drive.usercontent.google.com/download?id=19SdAYymlHvFQ7wzc-_JfFYOYMW6xAw5-&export=download&authuser=0&confirm=t&uuid=e1cbff64-d615-493d-9d02-bcdbd40f878c&at=APZUnTVRpcei6q_BjzQ7EtHA7voq:1706683990388"
+          "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/evaluation/multi_apps/78aed49a-a710-4321-a793-b611a7c5b56b_Invoice-01234567-89ab_gold.pdf",
+          "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/evaluation/multi_apps/78aed49a-a710-4321-a793-b611a7c5b56b_Receipt-0123-4567_gold.pdf"
         ],
         "dest": [
           "Invoice-01234567-89ab_gold.pdf",

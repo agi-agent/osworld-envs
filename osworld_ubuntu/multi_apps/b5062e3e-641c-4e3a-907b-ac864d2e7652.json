@@ -20,19 +20,19 @@
         "files": [
           {
             "path": "/home/user/Documents/Papers/zhang_appagent.pdf",
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/multi_apps/zhang_appagent.pdf"
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/multi_apps/b5062e3e-641c-4e3a-907b-ac864d2e7652_zhang_appagent.pdf"
           },
           {
             "path": "/home/user/Documents/Papers/niu_screenagent.pdf",
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/multi_apps/niu_screenagent.pdf"
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/multi_apps/b5062e3e-641c-4e3a-907b-ac864d2e7652_niu_screenagent.pdf"
           },
           {
             "path": "/home/user/Documents/Papers/koh_visualwebarena.pdf",
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/multi_apps/koh_visualwebarena.pdf"
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/multi_apps/b5062e3e-641c-4e3a-907b-ac864d2e7652_koh_visualwebarena.pdf"
           },
           {
             "path": "/home/user/Documents/Papers/deng_mind2web.pdf",
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/multi_apps/deng_mind2web.pdf"
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/multi_apps/b5062e3e-641c-4e3a-907b-ac864d2e7652_deng_mind2web.pdf"
           }
         ]
       }
@@ -76,7 +76,7 @@
     },
     "expected": {
       "type": "cloud_file",
-      "path": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/evaluation/multi_apps/authors-gt.xlsx",
+      "path": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/evaluation/multi_apps/b5062e3e-641c-4e3a-907b-ac864d2e7652_authors-gt.xlsx",
       "dest": "authors-gt.xlsx"
     },
     "options": {

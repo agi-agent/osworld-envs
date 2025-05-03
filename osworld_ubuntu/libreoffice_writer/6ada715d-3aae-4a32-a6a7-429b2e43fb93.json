@@ -9,7 +9,7 @@
       "parameters": {
         "files": [
           {
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/libreoffice_writer/Viewing_Your_Class_Schedule_and_Textbooks.docx",
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/libreoffice_writer/6ada715d-3aae-4a32-a6a7-429b2e43fb93_Viewing_Your_Class_Schedule_and_Textbooks.docx",
             "path": "/home/user/Desktop/Viewing_Your_Class_Schedule_and_Textbooks.docx"
           }
         ]
@@ -20,7 +20,7 @@
       "parameters": {
         "files": [
           {
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/libreoffice_writer/1.png",
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/libreoffice_writer/6ada715d-3aae-4a32-a6a7-429b2e43fb93_1.png",
             "path": "/home/user/Desktop/1.png"
           }
         ]
@@ -81,7 +81,7 @@
     },
     "expected": {
       "type": "cloud_file",
-      "path": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/evaluation/libreoffice_writer/Viewing_Your_Class_Schedule_and_Textbooks_Gold.docx",
+      "path": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/evaluation/libreoffice_writer/6ada715d-3aae-4a32-a6a7-429b2e43fb93_Viewing_Your_Class_Schedule_and_Textbooks_Gold.docx",
       "dest": "Viewing_Your_Class_Schedule_and_Textbooks_Gold.docx"
     }
   }

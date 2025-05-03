@@ -9,7 +9,7 @@
       "parameters": {
         "files": [
           {
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/vs_code/vscodeEvalExtension.zip",
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/vs_code/53ad5833-3455-407b-bbc6-45b4c79ab8fb_vscodeEvalExtension.zip",
             "path": "/home/user/Downloads/vscodeEvalExtension.zip"
           }
         ]
@@ -48,15 +48,15 @@
       "parameters": {
         "files": [
           {
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/vs_code/main.py",
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/vs_code/53ad5833-3455-407b-bbc6-45b4c79ab8fb_main.py",
             "path": "/home/user/project/main.py"
           },
           {
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/vs_code/README.md",
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/vs_code/53ad5833-3455-407b-bbc6-45b4c79ab8fb_README.md",
             "path": "/home/user/project/README.md"
           },
           {
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/vs_code/settings.json",
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/vs_code/53ad5833-3455-407b-bbc6-45b4c79ab8fb_settings.json",
             "path": "/home/user/project/.vscode/settings.json"
           }
         ]

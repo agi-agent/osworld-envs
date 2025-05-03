@@ -10,27 +10,27 @@
         "files": [
           {
             "path": "/home/user/Desktop/my_bookkeeping.xlsx",
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/multi_apps/my_bookkeeping.xlsx"
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/multi_apps/8e116af7-7db7-4e35-a68b-b0939c066c78_my_bookkeeping.xlsx"
           },
           {
             "path": "/home/user/Desktop/receipt_0.jpeg",
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/multi_apps/receipt_0.jpeg"
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/multi_apps/8e116af7-7db7-4e35-a68b-b0939c066c78_receipt_0.jpeg"
           },
           {
             "path": "/home/user/Desktop/receipt_1.jpg",
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/multi_apps/receipt_1.jpg"
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/multi_apps/8e116af7-7db7-4e35-a68b-b0939c066c78_receipt_1.jpg"
           },
           {
             "path": "/home/user/Desktop/receipt_2.jpg",
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/multi_apps/receipt_2.jpg"
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/multi_apps/8e116af7-7db7-4e35-a68b-b0939c066c78_receipt_2.jpg"
           },
           {
             "path": "/home/user/Desktop/receipt_3.pdf",
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/multi_apps/receipt_3.pdf"
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/multi_apps/8e116af7-7db7-4e35-a68b-b0939c066c78_receipt_3.pdf"
           },
           {
             "path": "/home/user/Desktop/receipt_4.jpg",
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/multi_apps/receipt_4.jpg"
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/multi_apps/8e116af7-7db7-4e35-a68b-b0939c066c78_receipt_4.jpg"
           }
         ]
       }
@@ -89,7 +89,7 @@
     },
     "expected": {
       "type": "cloud_file",
-      "path": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/evaluation/multi_apps/my_bookkeeping_gold.xlsx",
+      "path": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/evaluation/multi_apps/8e116af7-7db7-4e35-a68b-b0939c066c78_my_bookkeeping_gold.xlsx",
       "dest": "my_bookkeeping_gold.xlsx"
     },
     "options": {

@@ -24,39 +24,39 @@
         "files": [
           {
             "path": "/home/user/Desktop/students work/Zheng He .docx",
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/multi_apps/Zheng He .docx"
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/multi_apps/3a93cae4-ad3e-403e-8c12-65303b271818_Zheng He .docx"
           },
           {
             "path": "/home/user/Desktop/students work/cassie.docx",
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/multi_apps/cassie.docx"
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/multi_apps/3a93cae4-ad3e-403e-8c12-65303b271818_cassie.docx"
           },
           {
             "path": "/home/user/Desktop/students work/case study.docx",
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/multi_apps/case study.docx"
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/multi_apps/3a93cae4-ad3e-403e-8c12-65303b271818_case study.docx"
           },
           {
             "path": "/home/user/Desktop/Grammar rules PDF/irregularrules02.pdf",
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/multi_apps/irregularrules02.pdf"
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/multi_apps/3a93cae4-ad3e-403e-8c12-65303b271818_irregularrules02.pdf"
           },
           {
             "path": "/home/user/Desktop/Grammar rules PDF/irregularrules01.pdf",
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/multi_apps/irregularrules01.pdf"
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/multi_apps/3a93cae4-ad3e-403e-8c12-65303b271818_irregularrules01.pdf"
           },
           {
             "path": "/home/user/Desktop/Grammar rules PDF/fragrules.pdf",
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/multi_apps/fragrules.pdf"
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/multi_apps/3a93cae4-ad3e-403e-8c12-65303b271818_fragrules.pdf"
           },
           {
             "path": "/home/user/Desktop/Grammar rules PDF/csfsrules.pdf",
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/multi_apps/csfsrules.pdf"
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/multi_apps/3a93cae4-ad3e-403e-8c12-65303b271818_csfsrules.pdf"
           },
           {
             "path": "/home/user/Desktop/Public Lecture Teaching Plan.docx",
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/multi_apps/Public Lecture Teaching Plan.docx"
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/multi_apps/3a93cae4-ad3e-403e-8c12-65303b271818_Public Lecture Teaching Plan.docx"
           },
           {
             "path": "/home/user/Desktop/Course Timetable.xlsx",
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/multi_apps/Course Timetable.xlsx"
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/multi_apps/3a93cae4-ad3e-403e-8c12-65303b271818_Course Timetable.xlsx"
           }
         ]
       }
@@ -118,17 +118,17 @@
     "expected": [
       {
         "type": "cloud_file",
-        "path": "https://drive.google.com/uc?id=1VMOon8byWuoCW2Uk5etGMJLMzAfwFVyB&export=download",
+        "path": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/evaluation/multi_apps/3a93cae4-ad3e-403e-8c12-65303b271818_Course Timetable gold.xlsx",
         "dest": "Course Timetable gold.xlsx"
       },
       {
         "type": "cloud_file",
-        "path": "https://drive.google.com/uc?id=1jAThiIqILZ5t-RFPHVniSvAL8ZJO1H3P&export=download",
+        "path": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/evaluation/multi_apps/3a93cae4-ad3e-403e-8c12-65303b271818_Course Timetable gold 2.xlsx",
         "dest": "Course Timetable gold 2.xlsx"
       },
       {
         "type": "cloud_file",
-        "path": "https://drive.google.com/uc?id=1U0THDtPCgsw-Rb0N9fjF8DeOepPeUajP&export=download",
+        "path": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/evaluation/multi_apps/3a93cae4-ad3e-403e-8c12-65303b271818_Course Timetable gold 3.xlsx",
         "dest": "Course Timetable gold 3.xlsx"
       }
     ],

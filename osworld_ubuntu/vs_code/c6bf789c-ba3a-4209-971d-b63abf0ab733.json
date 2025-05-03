@@ -9,7 +9,7 @@
       "parameters": {
         "files": [
           {
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/vs_code/hw_python_oop-master.zip",
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/vs_code/c6bf789c-ba3a-4209-971d-b63abf0ab733_hw_python_oop-master.zip",
             "path": "/home/user/Downloads/hw_python_oop-master.zip"
           }
         ]

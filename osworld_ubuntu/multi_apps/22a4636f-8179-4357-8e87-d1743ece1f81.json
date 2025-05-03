@@ -66,7 +66,7 @@
       "parameters": {
         "files": [
           {
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/multi_apps/Meeting-Agenda.docx",
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/multi_apps/22a4636f-8179-4357-8e87-d1743ece1f81_Meeting-Agenda.docx",
             "path": "/home/user/Desktop/Meeting-Agenda.docx"
           }
         ]
@@ -101,7 +101,7 @@
     },
     "expected": {
       "type": "cloud_file",
-      "path": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/evaluation/multi_apps/gold-Meeting-Agenda.pdf",
+      "path": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/evaluation/multi_apps/22a4636f-8179-4357-8e87-d1743ece1f81_gold-Meeting-Agenda.pdf",
       "dest": "gold-Meeting-Agenda.pdf"
     }
   }

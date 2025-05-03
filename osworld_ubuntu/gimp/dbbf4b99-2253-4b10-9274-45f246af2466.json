@@ -9,7 +9,7 @@
       "parameters": {
         "files": [
           {
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/gimp/yicun.raw",
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/gimp/dbbf4b99-2253-4b10-9274-45f246af2466_yicun.raw",
             "path": "/home/user/Desktop/yicun.raw"
           }
         ]

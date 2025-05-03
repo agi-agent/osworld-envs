@@ -9,7 +9,7 @@
       "parameters": {
         "files": [
           {
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/libreoffice_calc/Employee_Age_By_Birthday.xlsx",
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/libreoffice_calc/4e6fcf72-daf3-439f-a232-c434ce416af6_Employee_Age_By_Birthday.xlsx",
             "path": "/home/user/Employee_Age_By_Birthday.xlsx"
           }
         ]

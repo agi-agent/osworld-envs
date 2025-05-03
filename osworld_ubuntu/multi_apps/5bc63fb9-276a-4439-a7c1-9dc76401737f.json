@@ -9,7 +9,7 @@
       "parameters": {
         "files": [
           {
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/multi_apps/llm_answers.json",
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/multi_apps/5bc63fb9-276a-4439-a7c1-9dc76401737f_llm_answers.json",
             "path": "/home/user/Desktop/llm_answers.json"
           }
         ]
@@ -55,7 +55,7 @@
     "func": "compare_docx_files_and_ignore_new_lines",
     "expected": {
       "type": "cloud_file",
-      "path": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/evaluation/multi_apps/gemini_results_Gold.docx",
+      "path": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/evaluation/multi_apps/5bc63fb9-276a-4439-a7c1-9dc76401737f_gemini_results_Gold.docx",
       "dest": "gemini_results_Gold.docx"
     },
     "result": {

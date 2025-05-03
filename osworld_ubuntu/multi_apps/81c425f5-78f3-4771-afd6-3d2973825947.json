@@ -10,7 +10,7 @@
         "files": [
           {
             "path": "/home/user/Desktop/OSP_Envelope_Price-List_2023_5000.xlsx",
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/multi_apps/OSP_Envelope_Price-List_2023_5000.xlsx"
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/multi_apps/81c425f5-78f3-4771-afd6-3d2973825947_OSP_Envelope_Price-List_2023_5000.xlsx"
           }
         ]
       }
@@ -62,7 +62,7 @@
     },
     "expected": {
       "type": "cloud_file",
-      "path": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/evaluation/multi_apps/price_Gold.docx",
+      "path": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/evaluation/multi_apps/81c425f5-78f3-4771-afd6-3d2973825947_price_Gold.docx",
       "dest": "price_Gold.docx"
     }
   }

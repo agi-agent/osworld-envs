@@ -9,7 +9,7 @@
       "parameters": {
         "files": [
           {
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/multi_apps/binder.zip",
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/multi_apps/2c9fc0de-3ee7-45e1-a5df-c86206ad78b5_binder.zip",
             "path": "/home/user/Downloads/binder.zip"
           }
         ]

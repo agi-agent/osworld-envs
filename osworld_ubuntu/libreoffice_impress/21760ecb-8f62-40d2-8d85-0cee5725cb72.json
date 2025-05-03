@@ -9,7 +9,7 @@
       "parameters": {
         "files": [
           {
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/libreoffice_impress/Ch4 Video Effect.pptx",
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/libreoffice_impress/21760ecb-8f62-40d2-8d85-0cee5725cb72_Ch4 Video Effect.pptx",
             "path": "/home/user/Desktop/Ch4 Video Effect.pptx"
           }
         ]

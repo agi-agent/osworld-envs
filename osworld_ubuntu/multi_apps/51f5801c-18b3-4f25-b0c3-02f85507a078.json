@@ -9,7 +9,7 @@
       "parameters": {
         "files": [
           {
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/multi_apps/Dickinson_Slides.pptx",
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/multi_apps/51f5801c-18b3-4f25-b0c3-02f85507a078_Dickinson_Slides.pptx",
             "path": "/home/user/Desktop/Dickinson_Slides.pptx"
           }
         ]
@@ -36,7 +36,7 @@
     },
     "expected": {
       "type": "cloud_file",
-      "path": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/evaluation/multi_apps/notes_gold.docx",
+      "path": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/evaluation/multi_apps/51f5801c-18b3-4f25-b0c3-02f85507a078_notes_gold.docx",
       "dest": "notes_gold.docx"
     },
     "options": {

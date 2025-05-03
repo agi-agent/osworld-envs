@@ -28,7 +28,7 @@
       "parameters": {
         "files": [
           {
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/multi_apps/researchers.xlsx",
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/multi_apps/5990457f-2adb-467b-a4af-5c857c92d762_researchers.xlsx",
             "path": "/home/user/Desktop/researchers.xlsx"
           }
         ]

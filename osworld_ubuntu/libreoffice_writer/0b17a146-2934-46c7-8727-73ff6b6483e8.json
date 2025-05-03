@@ -9,7 +9,7 @@
       "parameters": {
         "files": [
           {
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/libreoffice_writer/H2O_Factsheet_WA.docx",
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/libreoffice_writer/0b17a146-2934-46c7-8727-73ff6b6483e8_H2O_Factsheet_WA.docx",
             "path": "/home/user/Desktop/H2O_Factsheet_WA.docx"
           }
         ]
@@ -71,12 +71,12 @@
     "expected": [
       {
         "type": "cloud_file",
-        "path": "https://drive.usercontent.google.com/download?id=1dM_FSTGDWxSW64VEth_wKMYNkvw0y_tq&export=download&authuser=0&confirm=t&uuid=342f41e2-f48f-41ff-8942-f7dfe5de1dba&at=APZUnTXHfskcX3tvmrSbzCOyQIgb:1704976694506",
+        "path": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/evaluation/libreoffice_writer/0b17a146-2934-46c7-8727-73ff6b6483e8_H2O_Factsheet_WA_Gold.docx",
         "dest": "H2O_Factsheet_WA_Gold.docx"
       },
       {
         "type": "cloud_file",
-        "path": "https://drive.usercontent.google.com/download?id=1dM_FSTGDWxSW64VEth_wKMYNkvw0y_tq&export=download&authuser=0&confirm=t&uuid=342f41e2-f48f-41ff-8942-f7dfe5de1dba&at=APZUnTXHfskcX3tvmrSbzCOyQIgb:1704976694506",
+        "path": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/evaluation/libreoffice_writer/0b17a146-2934-46c7-8727-73ff6b6483e8_H2O_Factsheet_WA_Gold.docx",
         "dest": "H2O_Factsheet_WA_Gold.docx"
       }
     ]

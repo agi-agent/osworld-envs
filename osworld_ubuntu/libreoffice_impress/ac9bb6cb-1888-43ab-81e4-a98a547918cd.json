@@ -9,7 +9,7 @@
       "parameters": {
         "files": [
           {
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/libreoffice_impress/saa-format-guide.pptx",
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/libreoffice_impress/ac9bb6cb-1888-43ab-81e4-a98a547918cd_saa-format-guide.pptx",
             "path": "/home/user/Desktop/saa-format-guide.pptx"
           }
         ]

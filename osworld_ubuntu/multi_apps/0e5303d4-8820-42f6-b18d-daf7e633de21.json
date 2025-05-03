@@ -46,7 +46,7 @@
       "parameters": {
         "files": [
           {
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/multi_apps/lecture0.pdf",
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/multi_apps/0e5303d4-8820-42f6-b18d-daf7e633de21_lecture0.pdf",
             "path": "/home/user/lecture_slides/lecture0.pdf"
           }
         ]
@@ -88,7 +88,7 @@
     },
     "expected": {
       "type": "cloud_file",
-      "path": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/evaluation/multi_apps/gold_lecture_slides.zip",
+      "path": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/evaluation/multi_apps/0e5303d4-8820-42f6-b18d-daf7e633de21_gold_lecture_slides.zip",
       "dest": "gold_lecture_slides.zip"
     },
     "options": {

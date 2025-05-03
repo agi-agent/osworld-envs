@@ -9,7 +9,7 @@
       "parameters": {
         "files": [
           {
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/multi_apps/picture1.jpg",
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/multi_apps/ce2b64a2-ddc1-4f91-8c7d-a88be7121aac_picture1.jpg",
             "path": "/home/user/Pictures/picture1.jpg"
           }
         ]
@@ -20,7 +20,7 @@
       "parameters": {
         "files": [
           {
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/multi_apps/picture2.jpg",
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/multi_apps/ce2b64a2-ddc1-4f91-8c7d-a88be7121aac_picture2.jpg",
             "path": "/home/user/Pictures/picture2.jpg"
           }
         ]
@@ -31,7 +31,7 @@
       "parameters": {
         "files": [
           {
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/multi_apps/picture3.jpg",
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/multi_apps/ce2b64a2-ddc1-4f91-8c7d-a88be7121aac_picture3.jpg",
             "path": "/home/user/Pictures/picture3.jpg"
           }
         ]

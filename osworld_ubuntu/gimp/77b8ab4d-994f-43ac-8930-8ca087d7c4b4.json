@@ -9,7 +9,7 @@
       "parameters": {
         "files": [
           {
-            "url": "https://osgym-download-files.s3.ap-northeast-1.amazonaws.com/reset/gimp/The_Lost_River_Of_Dreams.jpg",
+            "url": "https://osworld-file.s3.ap-northeast-1.amazonaws.com/ubuntu/reset/gimp/77b8ab4d-994f-43ac-8930-8ca087d7c4b4_The_Lost_River_Of_Dreams.jpg",
             "path": "/home/user/Desktop/The_Lost_River_Of_Dreams.jpg"
           }
         ]
